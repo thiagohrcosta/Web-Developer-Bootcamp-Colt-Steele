@@ -3,3 +3,11 @@ body{
   margin-left: 10%;
   margin-right: 10%;
 }
+
+.year{
+  font-weight: bold;
+  background-color: grey;
+  color: white;
+  border-radius: 20px;
+  padding: 5px;
+}
